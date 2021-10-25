@@ -10,7 +10,9 @@ new Vue({
         favNo(add1, add2){
             const randomNo = Math.random(add1, add2)
             return randomNo
+
         }
+
 
     },
 
